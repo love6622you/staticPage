@@ -1,5 +1,5 @@
 <template>
-  <ul class="flex flex-col gap-y-5 text-center">
+  <ul class="mb-11 space-y-5 text-center">
     <li
       v-for="menu in menuList"
       :key="menu.key"

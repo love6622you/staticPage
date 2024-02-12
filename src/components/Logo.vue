@@ -1,8 +1,10 @@
 <template>
   <div class="rounded-full shadow-md shadow-black/25">
-    <div class="beak"></div>
-    <div class="eye"></div>
-    <div class="head"></div>
+    <div class="relative">
+      <div class="beak"></div>
+      <div class="eye"></div>
+      <div class="head"></div>
+    </div>
   </div>
 </template>
 
