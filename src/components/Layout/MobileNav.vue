@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed w-full bg-white shadow-md">
+  <nav class="fixed z-30 w-full bg-white shadow-md">
     <div class="flex w-full items-center justify-between px-6 py-[1.875rem]">
       <div>
         <input id="menu" v-model="open" type="checkbox" class="hidden" />
