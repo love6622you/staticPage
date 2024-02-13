@@ -7,9 +7,9 @@
     <main class="mt-[88px] flex-1 overflow-y-auto bg-[#DCCCBC] md:mt-0">
       <section>
         <div class="banner_hero">
-          <div class="absolute bottom-9 right-10 space-y-2 text-right text-white">
-            <h1 class="ml-auto w-72 text-5xl font-bold md:w-auto">白頭翁 (Chinese bulbul)</h1>
-            <p class="ml-auto w-auto pl-10 text-lg">
+          <div class="flex h-full flex-col items-end justify-end gap-2 p-9 text-right text-white">
+            <h1 class="w-72 text-5xl font-bold md:w-auto">白頭翁 (Chinese bulbul)</h1>
+            <p class="w-auto text-lg">
               又名白頭鵯。以果實、昆蟲為主食，無法消化小米、穀類。平均壽命約 8~10 年。
             </p>
           </div>

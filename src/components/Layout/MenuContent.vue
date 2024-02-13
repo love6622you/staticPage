@@ -29,6 +29,8 @@ const handleClick = (value) => {
 
 <style scoped>
 .selected {
-  @apply font-bold text-[#AA6666] underline;
+  font-weight: 700;
+  color: #aa6666;
+  text-decoration: underline;
 }
 </style>

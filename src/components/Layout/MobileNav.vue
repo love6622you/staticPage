@@ -17,7 +17,7 @@
       </div>
 
       <h3 class="text-xl font-bold">白頭翁不吃小米</h3>
-      <p>Logo</p>
+      <Logo />
     </div>
 
     <MenuContent v-show="open" />
@@ -26,7 +26,7 @@
 
 <script setup>
 import { ref } from 'vue';
-// import Logo from '../Logo.vue';
+import Logo from '../Logo.vue';
 import MenuContent from './MenuContent.vue';
 
 const open = ref(false);
